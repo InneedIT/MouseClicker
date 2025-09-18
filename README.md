@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src=".docs/logo.png" alt="MouseClicker" width="128" />
+  <img src="docs/logo.png" alt="MouseClicker" width="128" />
   <br>
   Continuation of <a href="https://github.com/Hfugghg/MouseClicker">MouseClicker</a>
   <br>
