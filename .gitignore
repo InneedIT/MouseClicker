@@ -1,0 +1,21 @@
+# IDE and build generated files
+# ==================================
+/bin
+/obj
+.idea/
+.vs/
+
+# User-specific files
+# ==================================
+*.suo
+*.user
+*.csproj.user
+
+# Build results
+# ==================================
+[Bb]in/
+[Oo]bj/
+
+# Rider files
+# ==================================
+*.sln.iml
