@@ -1,4 +1,9 @@
-# <div align="center"><img src="https://raw.githubusercontent.com/Hfugghg/MouseClicker/refs/heads/dev/docs/logo.png" width="128" /></div><div align="center">MouseClicker</div>
+<h1 align="center">
+  <img src=".docs/logo.png" alt="MouseClicker" width="128" />
+  <br>
+  Continuation of <a href="https://github.com/Hfugghg/MouseClicker">MouseClicker</a>
+  <br>
+</h1>
 
 MouseClicker 是一款功能强大的 Windows 桌面应用程序，旨在自动执行鼠标点击任务。无论您是需要执行重复性点击任务，还是希望在指定屏幕区域内实现自动化操作，MouseClicker 都能为您提供灵活、可靠的解决方案。
 
